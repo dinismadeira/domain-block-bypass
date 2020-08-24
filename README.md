@@ -1,6 +1,6 @@
 # SiteUnblocker
 
-WebExtension to bypass domain blocks without using a VPN.
+WebExtension to bypass domain blocks in Portugal without using a VPN.
 
 This extension will retrieve the correct IP of a blocked site using Google Public DNS and connect to the website by directly using its ip address in the address bar.
 
