@@ -1,4 +1,4 @@
-# SiteUnblocker
+# Domain Block Bypass
 
 WebExtension to bypass domain blocks in Portugal without using a VPN.
 
