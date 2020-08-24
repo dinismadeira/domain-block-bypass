@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Unblock Sites"
+  },
+  "appDesc": {
+    "message": "Bypass domain name blocks using Google Public DNS"
+  }
+}

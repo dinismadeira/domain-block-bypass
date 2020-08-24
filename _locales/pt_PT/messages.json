@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Desbloquear Sites"
+  },
+  "appDesc": {
+    "message": "Desbloqueia sites usando o Google Public DNS"
+  }
+}
